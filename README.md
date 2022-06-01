@@ -5,9 +5,9 @@
 ### <a href="mailto:pedrolucassec@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
 <div>
-  <a href="https://github.com/pedrolucasjdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucasjdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasjdev&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/pedrolucaspdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspdev&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
