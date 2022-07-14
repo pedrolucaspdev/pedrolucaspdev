@@ -1,4 +1,4 @@
-## :zap: Olá, me chamo Pedro Lucas (pedrolucasjdev)
+## :zap: Olá, me chamo Pedro Lucas (pedrolucaspdev)
 #### Criei este perfil para compartilhar meus projetos e minhas ideias com vocês :books:
 #### Espero que gostem dos conteúdos.
 #### :warning: caso precise de ajuda me envie um e-mail
